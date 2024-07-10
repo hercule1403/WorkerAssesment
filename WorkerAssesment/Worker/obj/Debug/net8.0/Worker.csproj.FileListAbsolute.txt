@@ -1,0 +1,5 @@
+D:\All\Interview_Assesement\Worker\obj\Debug\net8.0\Worker.csproj.AssemblyReference.cache
+D:\All\Interview_Assesement\Worker\obj\Debug\net8.0\Worker.GeneratedMSBuildEditorConfig.editorconfig
+D:\All\Interview_Assesement\Worker\obj\Debug\net8.0\Worker.AssemblyInfoInputs.cache
+D:\All\Interview_Assesement\Worker\obj\Debug\net8.0\Worker.AssemblyInfo.cs
+D:\All\Interview_Assesement\Worker\obj\Debug\net8.0\Worker.csproj.CoreCompileInputs.cache
